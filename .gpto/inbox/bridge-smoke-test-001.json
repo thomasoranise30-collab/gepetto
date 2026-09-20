@@ -1,0 +1,10 @@
+{
+  "protocol": "GPTO_CODEX_TASK/1",
+  "task_id": "bridge-smoke-test-001",
+  "created_at": "2026-09-20T15:15:00+02:00",
+  "prompt": "Réponds exactement : PONT WEB CODEX OK",
+  "priority": "normal",
+  "allow_write": false,
+  "allow_external_action": false,
+  "context_refs": []
+}
